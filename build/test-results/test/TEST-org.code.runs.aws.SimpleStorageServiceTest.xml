@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.code.runs.aws.SimpleStorageServiceTest" tests="4" skipped="4" failures="0" errors="0" timestamp="2020-07-08T10:08:57" hostname="varsharmaraa-macbookpro.roam.corp.google.com" time="0.0">
+  <properties/>
+  <testcase name="testUploadObject" classname="org.code.runs.aws.SimpleStorageServiceTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testDownloadObject" classname="org.code.runs.aws.SimpleStorageServiceTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testPrintObjectList" classname="org.code.runs.aws.SimpleStorageServiceTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testPrintBucketList" classname="org.code.runs.aws.SimpleStorageServiceTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

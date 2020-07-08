@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.code.runs.judges.LeetCodeProblemsTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-07-08T10:08:57" hostname="varsharmaraa-macbookpro.roam.corp.google.com" time="0.004">
+  <properties/>
+  <testcase name="burstBalloons" classname="org.code.runs.judges.LeetCodeProblemsTest" time="0.001"/>
+  <testcase name="ipoTest" classname="org.code.runs.judges.LeetCodeProblemsTest" time="0.003"/>
+  <system-out><![CDATA[Max coin top down = 167
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

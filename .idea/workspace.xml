@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e1294899-4f7c-4604-aca5-86ab41908f47" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/code/runs/algo/Algorithms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/code/runs/algo/Greedy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/code/runs/algo/InversionPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/code/runs/algo/KMP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/code/runs/algo/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/code/runs/aws/Dynamo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/code/runs/aws/SimpleStorageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/code/runs/dp/Knapsack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/code/runs/dp/MatrixPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/code/runs/dp/RodCut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/code/runs/dp/Sequences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/code/runs/dp/SubsetSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/code/runs/dp/UnclassifiedDP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/code/runs/ds/BinaryIndexedTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/code/runs/ds/BinaryIndexedTree2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/code/runs/ds/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/code/runs/ds/Heap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/code/runs/ds/IntervalSearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/code/runs/ds/PrefixTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/code/runs/ds/SegmentTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/code/runs/ds/SkipList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/code/runs/ds/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/code/runs/ds/Trie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/code/runs/ds/UnionFind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/code/runs/judges/InterviewBit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/code/runs/judges/LeetCodeProblems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/code/runs/sort/Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/code/runs/algo/AlgorithmsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/code/runs/algo/KMPTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/code/runs/aws/DynamoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/code/runs/aws/SimpleStorageServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/code/runs/dp/RodCutTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/code/runs/dp/SubsetSumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/code/runs/ds/AdjacencyListGraphTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/code/runs/ds/IntervalSearchTreeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/code/runs/ds/SegmentTreeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/code/runs/ds/SkipListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/code/runs/ds/TrieTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/code/runs/ds/UnionFindTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/code/runs/judges/InterviewBitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/code/runs/judges/LeetCodeProblemsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/code/runs/judges/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/code/runs/sort/SortTest.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="CodingPrimer" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="CodingPrimer" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="CodingPrimer" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="CodingPrimer" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="CodingPrimer" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="CodingPrimer" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="G3PluginsProjectSettings">
+    <appliedSettings>
+      <entry key="LinkifyInternalShortlinks" value="true" />
+      <entry key="RecognizedNullableAnnotations" value="true" />
+    </appliedSettings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1eOcisua8BeMjrTeckTPTp5R47X" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test" />
+      <recent name="$PROJECT_DIR$/src/test/java" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.CodingPrimer [buildDependents]">
+    <configuration name="CodingPrimer [buildDependents]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="buildDependents" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="CodingPrimer [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.CodingPrimer [buildDependents]" />
+        <item itemvalue="Gradle.CodingPrimer [build]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../oculus" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1294899-4f7c-4604-aca5-86ab41908f47" name="Default Changelist" comment="" />
+      <created>1594196209814</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594196209814</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

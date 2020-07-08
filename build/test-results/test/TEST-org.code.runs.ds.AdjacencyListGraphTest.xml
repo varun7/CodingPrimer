@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.code.runs.ds.AdjacencyListGraphTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-07-08T10:08:57" hostname="varsharmaraa-macbookpro.roam.corp.google.com" time="0.023">
+  <properties/>
+  <testcase name="testPrims" classname="org.code.runs.ds.AdjacencyListGraphTest" time="0.016"/>
+  <testcase name="testBellmanFord" classname="org.code.runs.ds.AdjacencyListGraphTest" time="0.001"/>
+  <testcase name="testKruskal" classname="org.code.runs.ds.AdjacencyListGraphTest" time="0.002"/>
+  <testcase name="testBellmanFordForNegativeWeightCycle" classname="org.code.runs.ds.AdjacencyListGraphTest" time="0.001"/>
+  <testcase name="testDijkstra" classname="org.code.runs.ds.AdjacencyListGraphTest" time="0.001"/>
+  <testcase name="testCyclic" classname="org.code.runs.ds.AdjacencyListGraphTest" time="0.001"/>
+  <system-out><![CDATA[
+
+Naive implementation of prims:
+1 cost = 0.0
+2 cost = 1.0
+3 cost = 2.0
+4 cost = 4.0
+mst cost = 7.0
+
+
+Prims using balanced binary search tree:
+1 cost = 0.0
+2 cost = 1.0
+3 cost = 2.0
+4 cost = 4.0
+mst cost = 7.0
+Edge from : 1 to : 2 added to Spanning tree with cost = 1.0
+Edge from : 2 to : 3 added to Spanning tree with cost = 2.0
+Edge from : 3 to : 4 added to Spanning tree with cost = 4.0
+mst cost = 7.0
+Graph contains negative weight cycle.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.code.runs.ds.IntervalSearchTreeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-07-08T10:08:57" hostname="varsharmaraa-macbookpro.roam.corp.google.com" time="0.001">
+  <properties/>
+  <testcase name="testOverlappingIntervals" classname="org.code.runs.ds.IntervalSearchTreeTest" time="0.001"/>
+  <system-out><![CDATA[
+
+Printing intervals overlapping with (0 , 15) is/are: 
+ (2 , 10)   (0 , 2)   (3 , 5)   (7 , 12)  ]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

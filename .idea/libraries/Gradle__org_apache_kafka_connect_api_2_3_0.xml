@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.kafka:connect-api:2.3.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.kafka/connect-api/2.3.0/96ab678b3c1cd2ccfeba8b34307e6aa5549bd699/connect-api-2.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.kafka/connect-api/2.3.0/5436cf6e78a97765bfcb06f0cf96713f3b24c165/connect-api-2.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

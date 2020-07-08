@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.code.runs.algo.AlgorithmsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-07-08T10:08:57" hostname="varsharmaraa-macbookpro.roam.corp.google.com" time="0.0">
+  <properties/>
+  <testcase name="testArrayShuffling" classname="org.code.runs.algo.AlgorithmsTest" time="0.0"/>
+  <system-out><![CDATA[
+  4  1  8  3  2  7  6  5  9]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
